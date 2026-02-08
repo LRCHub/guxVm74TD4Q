@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "わがまま。",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-02-08T11:41:57.497030Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わがまま",
+      "artist": "Alisa Takigawa",
+      "has_synced": true,
+      "path": "select/01_わがまま_Alisa_Takigawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わがまま",
+      "artist": "瀧川　ありさ",
+      "has_synced": true,
+      "path": "select/02_わがまま_瀧川_ありさ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "わがまま",
+      "artist": "Alisa Takigawa",
+      "has_synced": true,
+      "path": "select/03_わがまま_Alisa_Takigawa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "わがまま。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/04_わがまま。_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "わがまま",
+      "artist": "瀧川ありさ",
+      "has_synced": true,
+      "path": "select/05_わがまま_瀧川ありさ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "わがまま",
+      "artist": "evening cinema",
+      "has_synced": true,
+      "path": "select/06_わがまま_evening_cinema.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "わがまま。 (任性)",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/07_わがまま。_(任性)_『ユイカ』.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "わがまま - Wagamama",
+      "artist": "KALMA",
+      "has_synced": true,
+      "path": "select/08_わがまま_-_Wagamama_KALMA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "わがまま",
+      "artist": "KALMA",
+      "has_synced": true,
+      "path": "select/09_わがまま_KALMA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "わがまま 気のまま 愛のジョーク",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/10_わがまま_気のまま_愛のジョーク_モーニング娘。.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わがまま。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_わがまま。_『ユイカ』.txt"
+    }
+  ]
+}
